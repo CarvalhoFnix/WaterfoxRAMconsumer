@@ -49,6 +49,6 @@ O waterfox-bin (ou o executável waterfox / waterfox.bin) é o núcleo, o arquiv
 # Isenção de responsabilidade
 - O uso de IA e extensões ficará seu critério. Use-as com responsabilidade e sempre verifique extensões que desconhece, leiam a documentação da extensão sempre que possível. A análise de processos é recomendado que faça de forma isolada, de preferência em máquina virtual, caso queira fazer em sua máquina principal, não coloque seus dados, faça com o navegador "puro".
 
-# Contribuidores adicionas: Gemini
+- Contribuidores adicionas: Gemini
 
 
